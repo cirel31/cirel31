@@ -46,7 +46,16 @@
 
 ### Programs
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-5455FE.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+![SketchUp](https://img.shields.io/badge/Unity-005F9E.svg?&style=for-the-badge&logo=SketchUp&logoColor=white)
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010.svg?&style=for-the-badge&logo=Rhinoceros&logoColor=white)
+
+### Hobbies
+![Steam](https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white)
+![Origin](https://img.shields.io/badge/Origin-F56C2D.svg?&style=for-the-badge&logo=Origin&logoColor=white)
+![CD Projekt](https://img.shields.io/badge/CDProjekt-DC0D15.svg?&style=for-the-badge&logo=CDProjekt&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white)
+
 
 ------
 
