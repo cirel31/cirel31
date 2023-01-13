@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Whats mine%20is mine?&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Whats mine%20is mine&fontSize=90)
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
 
 ### Hi there 👋
