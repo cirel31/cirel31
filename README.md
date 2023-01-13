@@ -65,7 +65,7 @@
 ### Hobbies
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white)
 ![Origin](https://img.shields.io/badge/Origin-F56C2D.svg?&style=for-the-badge&logo=Origin&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)  
 ![CD Projekt](https://img.shields.io/badge/CDProjekt-DC0D15.svg?&style=for-the-badge&logo=CDProjekt&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
