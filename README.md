@@ -1,7 +1,8 @@
-### Hi there 👋
-- 🌱 I’m currently learning Python...
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
+
+### Hi there 👋
+- 🌱 I’m currently learning Python...
 <!--
 **cirel31/cirel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
