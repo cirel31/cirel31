@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=c%20r&fontSize=90)
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
 
 ### Hi there 👋
