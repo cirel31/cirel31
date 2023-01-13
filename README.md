@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20World&fontSize=90)
+
 # CIREL31
 
 
@@ -35,8 +37,9 @@
 
 
 # INTERESTs
+(Want to Learn...)
 
-### Languages (Want to Learn...)
+### Languages 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
