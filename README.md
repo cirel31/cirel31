@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python...
 
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=dark)
 <!--
