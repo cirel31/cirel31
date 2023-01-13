@@ -28,7 +28,7 @@
 
 
 # CONTACT ME
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirel31@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white) : cirel31@gmail.com
 
 
 ---
@@ -42,7 +42,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ### Programs
-
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-5455FE.svg?&style=for-the-badge&logo=Unity&logoColor=white)
 
 ------
 
