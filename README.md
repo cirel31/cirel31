@@ -8,12 +8,12 @@
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
 
 ## Experience
-🎓 Bachelor of Science in Architectural Engineering
+🎓 Bachelor of Science in Architectural Engineering  
 🎓 Master of Science in Architectural Engineering
 
 ## Current
 ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=for-the-badge&logo=Samsung&logoColor=white)  
-: progress in Samsung SoftWare Academy For Youth 9th
+🌱 progress in Samsung SoftWare Academy For Youth 9th
 
 
 ---
