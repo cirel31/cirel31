@@ -43,7 +43,7 @@
 
 # CONTACT ME
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)  
-: cirel31@gmail.com
+📧 cirel31@gmail.com
 
 
 ---
