@@ -7,6 +7,9 @@
 
 ![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
 
+## Algorithm
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cirel31)](https://solved.ac/cirel31/)
+
 ## Experience
 🎓 Bachelor of Science in Architectural Engineering  
 🎓 Master of Science in Architectural Engineering
