@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello,%20World&fontSize=50&fontColor=ffffff)
 
-# CIREL31
-
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcirel31&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![cirel31's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cirel31&&show_icons=true&theme=synthwave)
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cirel31)](https://solved.ac/profile/cirel31)
@@ -13,10 +8,7 @@
 ## Experience
 🎓 Bachelor of Science in Architectural Engineering  
 🎓 Master of Science in Architectural Engineering
-
-## Current
-![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=for-the-badge&logo=Samsung&logoColor=white)  
-🌱 progress in Samsung SoftWare Academy For Youth 9th
+🌱 Samsung SoftWare Academy For Youth 9th
 
 
 ---
